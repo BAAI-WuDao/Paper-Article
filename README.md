@@ -30,5 +30,9 @@
 * **《专访唐杰 | 我国首个超大智能模型「悟道」发布，迎接基于模型的AI云时代》**
   
   链接：https://mp.weixin.qq.com/s/lsKVS_-aJSFf3shVx_ku7Q
+  
+* **《唐杰：悟道的雄心，何止是万亿参数模型》**
+
+  链接：https://mp.weixin.qq.com/s/O8I6WFN7OwPg_TcQKWz0_w
 
 
