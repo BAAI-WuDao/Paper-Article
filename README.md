@@ -7,7 +7,7 @@
   
   链接：
   
-* **Paper2**
+* **《WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training》**
 
   论文介绍了
   
