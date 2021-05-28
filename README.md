@@ -31,20 +31,24 @@
 
   链接：https://xhpfmapi.zhongguowangshi.com/vh512/share/9845658?channel=weixin
 
-* **CSDN《超大规模NLP模型升级，来智源大会见证世界记录的刷新》**
-
-  链接：https://mp.weixin.qq.com/s/_XnXELYXa1NadP7CIkfgNA
-
-* **智源社区《模型越大，真的越香吗？千亿参数之后是万亿，万亿之后呢？》**
-
-  链接：https://mp.weixin.qq.com/s/znstWyARPki7yPbKCYQfgg
-
 * **机器之心《专访唐杰 | 我国首个超大智能模型「悟道」发布，迎接基于模型的AI云时代》**
   
   链接：https://mp.weixin.qq.com/s/lsKVS_-aJSFf3shVx_ku7Q
+
+* **机器之心《谁说GPT只擅长生成？清华、智源等研究力证：GPT语言理解能力不输BERT》**
+  
+  链接：https://mp.weixin.qq.com/s/W_vyIfQ93cmqU2mOhMr6lQ
+
+* **CSDN《超大规模NLP模型升级，来智源大会见证世界记录的刷新》**
+
+  链接：https://mp.weixin.qq.com/s/_XnXELYXa1NadP7CIkfgNA
   
 * **AI科技评论《唐杰：悟道的雄心，何止是万亿参数模型》**
 
   链接：https://mp.weixin.qq.com/s/O8I6WFN7OwPg_TcQKWz0_w
+  
+* **智源社区《模型越大，真的越香吗？千亿参数之后是万亿，万亿之后呢？》**
+
+  链接：https://mp.weixin.qq.com/s/znstWyARPki7yPbKCYQfgg
 
 
