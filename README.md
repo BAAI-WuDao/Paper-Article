@@ -27,7 +27,8 @@
   链接：https://arxiv.org/abs/2103.06561
   
 ### Article
-
+* **《专访唐杰 | 我国首个超大智能模型「悟道」发布，迎接基于模型的AI云时代》**
   
+  链接：https://mp.weixin.qq.com/s/lsKVS_-aJSFf3shVx_ku7Q
 
 
