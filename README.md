@@ -20,3 +20,7 @@
 * **《CPM: A Large-scale Generative Chinese Pre-trained Language Model》**
 
   链接：https://arxiv.org/abs/2012.00413
+
+* **《FastMoE: A Fast Mixture-of-Expert Training System》**
+
+  链接：https://arxiv.org/abs/2103.13262
