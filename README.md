@@ -5,14 +5,6 @@
   
   链接：https://arxiv.org/abs/2103.10360
   
-* **《WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training》**
-
-  链接：https://arxiv.org/abs/2103.06561
-  
-* **《GPT Understands, Too》**
-  
-  链接：https://arxiv.org/abs/2103.10385
-
 * **《Controllable Generation from Pre-trained Language Models via Inverse Prompting》**
 
   链接：https://arxiv.org/abs/2103.10685
@@ -20,7 +12,18 @@
 * **《CPM: A Large-scale Generative Chinese Pre-trained Language Model》**
 
   链接：https://arxiv.org/abs/2012.00413
-
+  
 * **《FastMoE: A Fast Mixture-of-Expert Training System》**
 
   链接：https://arxiv.org/abs/2103.13262
+  
+* **《GPT Understands, Too》**
+  
+  链接：https://arxiv.org/abs/2103.10385
+  
+* **《WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training》**
+
+  链接：https://arxiv.org/abs/2103.06561
+  
+
+
