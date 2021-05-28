@@ -42,11 +42,19 @@
 * **CSDN《超大规模NLP模型升级，来智源大会见证世界记录的刷新》**
 
   链接：https://mp.weixin.qq.com/s/_XnXELYXa1NadP7CIkfgNA
-  
+
+* **PaperWeekly《免费报名！图灵奖得主、200+AI顶尖学术领袖邀你参与2021北京智源大会》**
+
+链接：https://mp.weixin.qq.com/s/Y4JBxrJLpRHx2RluDIf8Mw
+
 * **AINLP《智源“悟道 2.0”超大模型来了》**
 
   链接：https://mp.weixin.qq.com/s/Se1Uu9LifpHv-tPMKDtM2w
   
+* **程序员研修院《厉害了，全国AI人才近6成在北京，北京智源大会邀你一起见证中国AI，免费参会》**
+
+链接：https://mp.weixin.qq.com/s/gAvMsAA1k_Mmyo33Vub_8A
+
 * **AI科技评论《唐杰：悟道的雄心，何止是万亿参数模型》**
 
   链接：https://mp.weixin.qq.com/s/O8I6WFN7OwPg_TcQKWz0_w
