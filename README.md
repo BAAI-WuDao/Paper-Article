@@ -43,6 +43,10 @@
 
   链接：https://mp.weixin.qq.com/s/_XnXELYXa1NadP7CIkfgNA
   
+* **AINLP《智源“悟道 2.0”超大模型来了》**
+
+  链接：https://mp.weixin.qq.com/s/Se1Uu9LifpHv-tPMKDtM2w
+  
 * **AI科技评论《唐杰：悟道的雄心，何止是万亿参数模型》**
 
   链接：https://mp.weixin.qq.com/s/O8I6WFN7OwPg_TcQKWz0_w
