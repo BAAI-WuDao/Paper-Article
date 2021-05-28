@@ -31,6 +31,14 @@
 
   链接：https://xhpfmapi.zhongguowangshi.com/vh512/share/9845658?channel=weixin
 
+* **中国日报网《智源研究院发布超大规模智能模型“悟道1.0”》**
+
+  链接：https://caijing.chinadaily.com.cn/a/202103/22/WS6058268da3101e7ce9745189.html
+
+* **科技日报《人工智能从“大炼模型”到“炼大模型”》**
+
+  链接：https://s.cyol.com/articles/2021-04/13/content_DWd8GGf3.html
+
 * **机器之心《专访唐杰 | 我国首个超大智能模型「悟道」发布，迎接基于模型的AI云时代》**
   
   链接：https://mp.weixin.qq.com/s/lsKVS_-aJSFf3shVx_ku7Q
@@ -46,22 +54,10 @@
 * **PaperWeekly《免费报名！图灵奖得主、200+AI顶尖学术领袖邀你参与2021北京智源大会》**
 
   链接：https://mp.weixin.qq.com/s/Y4JBxrJLpRHx2RluDIf8Mw
-  
-* **中国日报网《智源研究院发布超大规模智能模型“悟道1.0”》**
-
-  链接：https://caijing.chinadaily.com.cn/a/202103/22/WS6058268da3101e7ce9745189.html
-
-* **科技日报《人工智能从“大炼模型”到“炼大模型”》**
-
-  链接：https://s.cyol.com/articles/2021-04/13/content_DWd8GGf3.html
 
 * **AINLP《智源“悟道 2.0”超大模型来了》**
 
   链接：https://mp.weixin.qq.com/s/Se1Uu9LifpHv-tPMKDtM2w
-  
-* **程序员研修院《厉害了，全国AI人才近6成在北京，北京智源大会邀你一起见证中国AI，免费参会》**
-
-  链接：https://mp.weixin.qq.com/s/gAvMsAA1k_Mmyo33Vub_8A
 
 * **AI科技评论《唐杰：悟道的雄心，何止是万亿参数模型》**
 
