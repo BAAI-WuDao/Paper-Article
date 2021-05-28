@@ -51,9 +51,9 @@
 
   链接：https://caijing.chinadaily.com.cn/a/202103/22/WS6058268da3101e7ce9745189.html
 
-* **北京日报《我国首个超大规模智能模型系统“悟道1.0”发布》**
+* **科技日报《人工智能从“大炼模型”到“炼大模型”》**
 
-  链接：https://baijiahao.baidu.com/s?id=1694760348148027784&wfr=spider&for=pc
+  链接：https://s.cyol.com/articles/2021-04/13/content_DWd8GGf3.html
 
 * **AINLP《智源“悟道 2.0”超大模型来了》**
 
