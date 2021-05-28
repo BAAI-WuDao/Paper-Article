@@ -27,6 +27,10 @@
   链接：https://arxiv.org/abs/2103.06561
   
 ### Article
+* **新华社《智源研究院发布超大规模智能模型“悟道1.0”》**
+
+  链接：https://xhpfmapi.zhongguowangshi.com/vh512/share/9845658?channel=weixin
+
 * **CSDN《超大规模NLP模型升级，来智源大会见证世界记录的刷新》**
 
   链接：https://mp.weixin.qq.com/s/_XnXELYXa1NadP7CIkfgNA
