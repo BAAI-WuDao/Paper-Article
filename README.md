@@ -45,7 +45,15 @@
 
 * **PaperWeekly《免费报名！图灵奖得主、200+AI顶尖学术领袖邀你参与2021北京智源大会》**
 
-链接：https://mp.weixin.qq.com/s/Y4JBxrJLpRHx2RluDIf8Mw
+  链接：https://mp.weixin.qq.com/s/Y4JBxrJLpRHx2RluDIf8Mw
+  
+* **中国日报网《智源研究院发布超大规模智能模型“悟道1.0”》**
+
+  链接：https://caijing.chinadaily.com.cn/a/202103/22/WS6058268da3101e7ce9745189.html
+
+* **北京日报《我国首个超大规模智能模型系统“悟道1.0”发布》**
+
+  链接：https://baijiahao.baidu.com/s?id=1694760348148027784&wfr=spider&for=pc
 
 * **AINLP《智源“悟道 2.0”超大模型来了》**
 
@@ -53,7 +61,7 @@
   
 * **程序员研修院《厉害了，全国AI人才近6成在北京，北京智源大会邀你一起见证中国AI，免费参会》**
 
-链接：https://mp.weixin.qq.com/s/gAvMsAA1k_Mmyo33Vub_8A
+  链接：https://mp.weixin.qq.com/s/gAvMsAA1k_Mmyo33Vub_8A
 
 * **AI科技评论《唐杰：悟道的雄心，何止是万亿参数模型》**
 
