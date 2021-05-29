@@ -6,6 +6,10 @@
   
   链接：https://arxiv.org/abs/2103.10360
   
+* **《CogView: Mastering Text-to-Image Generation via Transformers》**
+
+  链接：https://arxiv.org/abs/2105.13290
+  
 * **《Controllable Generation from Pre-trained Language Models via Inverse Prompting》**
 
   链接：https://arxiv.org/abs/2103.10685
