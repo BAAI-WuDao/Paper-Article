@@ -14,9 +14,9 @@
 
   链接：https://arxiv.org/abs/2103.10685
   
-* **《CPM: A Large-scale Generative Chinese Pre-trained Language Model》**
+* **《CPM-2: Large-scale Cost-effective Pre-trained Language Models》**
 
-  链接：https://arxiv.org/abs/2012.00413
+  链接：https://arxiv.org/pdf/2106.10715.pdf
   
 * **《FastMoE: A Fast Mixture-of-Expert Training System》**
 
